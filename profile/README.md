@@ -1,3 +1,5 @@
+<p align=center> <img src="https://gramoly.org/static/images/GRAMOLY.svg" width="200"> </p>
+
 ## About
 GRAM is a non-profit and volunteer-based initiative whose motive is to provide free education to the underprivileged class of students and empower them to go for stem fields.
 ## Who are we?
