@@ -1,4 +1,4 @@
-<p align=center> <img src="https://gramoly.org/static/images/GRAMOLY.svg" width="200"> </p>
+<p align=center> <img src="https://gramoly.org/static/images/GRAMOLY.svg" width="150"> </p>
 
 ## About
 [GRAM](https://gramoly.org) is a non-profit and volunteer-based initiative whose motive is to provide free education to the underprivileged class of students and empower them to go for STEM fields.
